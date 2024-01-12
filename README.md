@@ -1,6 +1,8 @@
 # Text Summarizer App
 
-A text summarizer application built using Streamlit
+A text summarizer application built using Streamlit.
+
+For this application, we use a small variant of BART for text summarization called [DistilBART (sshleifer/distilbart-cnn-12-6)](https://huggingface.co/sshleifer/distilbart-cnn-12-6).
 
 ## Setup
 
