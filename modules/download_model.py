@@ -3,8 +3,8 @@ from transformers import AutoModel, AutoTokenizer
 
 def main():
     # Model name to use for text summarization
-    model_name = "facebook/bart-large-cnn"
-    # model_name = "sshleifer/distilbart-cnn-12-6"
+    # model_name = "facebook/bart-large-cnn"
+    model_name = "sshleifer/distilbart-cnn-12-6"
 
     # If model files exist locally, load them from disk.
     # Otherwise, download them from HuggingFace's model hub.
