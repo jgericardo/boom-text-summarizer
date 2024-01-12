@@ -46,4 +46,4 @@ To run the Docker app,
 $ docker run -p 8000:8000 text-summarizer-app
 ```
 
-Open the local URL displayed on the terminal in a browser to view the Streamlit app.
+Open the local URL ("Network URL") displayed on the terminal in a browser to view the Streamlit app.
